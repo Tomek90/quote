@@ -1,9 +1,5 @@
-package main
+package quote
 
-func favs() []string {
+func Favs() []string {
 	return []string{"fiku", "miku", "fiu", "fiu", "fi", "fi"}
-}
-
-func main() {
-
 }
